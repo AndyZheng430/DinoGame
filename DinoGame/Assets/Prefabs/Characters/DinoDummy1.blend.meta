@@ -186,8 +186,8 @@ ModelImporter:
     - serializedVersion: 16
       name: FAINT
       takeName: FAINT
-      firstFrame: -1
-      lastFrame: 27
+      firstFrame: 0
+      lastFrame: 24
       wrapMode: 0
       orientationOffsetY: 0
       level: 0
@@ -214,8 +214,8 @@ ModelImporter:
     - serializedVersion: 16
       name: FireBallAttack
       takeName: FireBallAttack
-      firstFrame: -1
-      lastFrame: 27
+      firstFrame: 0
+      lastFrame: 24
       wrapMode: 0
       orientationOffsetY: 0
       level: 0
@@ -242,8 +242,8 @@ ModelImporter:
     - serializedVersion: 16
       name: IDLE
       takeName: IDLE
-      firstFrame: -3
-      lastFrame: 25
+      firstFrame: 0
+      lastFrame: 24
       wrapMode: 0
       orientationOffsetY: 0
       level: 0
@@ -270,8 +270,8 @@ ModelImporter:
     - serializedVersion: 16
       name: RamAttack
       takeName: RamAttack
-      firstFrame: -1
-      lastFrame: 27
+      firstFrame: 0
+      lastFrame: 24
       wrapMode: 0
       orientationOffsetY: 0
       level: 0
@@ -298,8 +298,8 @@ ModelImporter:
     - serializedVersion: 16
       name: RUN
       takeName: RUN
-      firstFrame: -8
-      lastFrame: 34
+      firstFrame: 0
+      lastFrame: 28
       wrapMode: 0
       orientationOffsetY: 0
       level: 0
@@ -326,8 +326,8 @@ ModelImporter:
     - serializedVersion: 16
       name: WALK
       takeName: WALK
-      firstFrame: -15
-      lastFrame: 55
+      firstFrame: 0
+      lastFrame: 28
       wrapMode: 0
       orientationOffsetY: 0
       level: 0

@@ -53,4 +53,5 @@ public class DinoController : MonoBehaviour {
             transform.Translate(new Vector3(0, 0, -currentXSpeed));
         }
     }
+    
 }
